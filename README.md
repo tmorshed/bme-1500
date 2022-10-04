@@ -1,7 +1,7 @@
 # BME1500
 Group project for BME1500: Topics in Neuromodulation
 
-####Project Members:
+### Project Members:
 - Samantha Bartman
 - Taha Morshdzadeh
 - Parsa Oveisi
