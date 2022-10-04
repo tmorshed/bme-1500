@@ -7,3 +7,5 @@ Group project for BME1500: Topics in Neuromodulation
 - Parsa Oveisi
 - Kevin Kadak
 - Sorenza Bastiaens
+
+1) Literature Review
